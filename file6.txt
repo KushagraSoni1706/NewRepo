@@ -1,1 +1,2 @@
 Created a file in newBranch
+some additional text in file6 to raise merge conflict
