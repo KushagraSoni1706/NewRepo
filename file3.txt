@@ -1,1 +1,2 @@
 Some text in file3
+one line added to to file3 too
